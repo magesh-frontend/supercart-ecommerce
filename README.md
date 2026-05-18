@@ -4,8 +4,8 @@ Users can browse products, view details, manage cart, and place orders with a cl
 
 ---
 
-Live Demo
-https://cinesearch-movie-app-zo85.vercel.app/
+Live Demo  
+https://supercart-git-main-magesh-frontends-projects.vercel.app/
 
 ## Features
 
