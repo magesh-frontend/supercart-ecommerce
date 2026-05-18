@@ -4,6 +4,9 @@ Users can browse products, view details, manage cart, and place orders with a cl
 
 ---
 
+Live Demo
+https://cinesearch-movie-app-zo85.vercel.app/
+
 ## Features
 
 * Browse all products instantly
